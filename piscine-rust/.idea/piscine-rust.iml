@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="EMPTY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/scalar/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/temperature_conv/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/fibonacci2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/find_factorial/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/groceries/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/looping/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/reverse_string/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/speed_transformation/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/borrow/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/borrow_run/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/division_and_remainder/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/doubtful/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/doubtful_run/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/fib_run/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/matrix_transposition/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/string_literals/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/string_literals_run/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/to_url/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/to_url_run/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tuples_refs/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/borrow_me_the_reference/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/borrow_me_the_reference_run/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/copy/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/copy_run/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/name_initials/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/name_initials_run/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ownership/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ownership_run/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/run_string_literals/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tic_tac_toe/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+      <excludeFolder url="file://$MODULE_DIR$/temperature_conv/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

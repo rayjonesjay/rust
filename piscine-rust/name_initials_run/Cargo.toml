@@ -1,0 +1,7 @@
+[package]
+name = "name_initials_run"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+name_initials = {path="../name_initials"}

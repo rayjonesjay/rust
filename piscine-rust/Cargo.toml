@@ -1,0 +1,21 @@
+[workspace]
+members = ["scalar","temperature_conv",".", "speed_transformation",
+    "looping", "groceries", "reverse_string", "find_factorial", "fibonacci2",
+    "matrix_transposition", "division_and_remainder",
+    "tuples_refs", "fib_run", "borrow_run", "doubtful", "doubtful_run", "to_url", "to_url_run", "string_literals", "run_string_literals", "name_initials", "name_initials_run", "ownership", "ownership_run", "copy", "copy_run", "borrow_me_the_reference", "borrow_me_the_reference_run", "tic_tac_toe"]
+[package]
+name = "piscine-rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+scalar = {path="scalar"}
+temperature_conv = {path="temperature_conv"}
+speed_transformation = {path="speed_transformation"}
+groceries = {path="groceries"}
+reverse_string = {path="reverse_string"}
+find_factorial = {path="find_factorial"}
+fibonacci2 = {path="fibonacci2"}
+matrix_transposition={path="matrix_transposition"}
+division_and_remainder = {path="division_and_remainder"}
+tuples_refs = {path="tuples_refs"}
