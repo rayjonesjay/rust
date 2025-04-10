@@ -2,7 +2,7 @@
 members = ["scalar","temperature_conv",".", "speed_transformation",
     "looping", "groceries", "reverse_string", "find_factorial", "fibonacci2",
     "matrix_transposition", "division_and_remainder",
-    "tuples_refs", "fib_run", "borrow_run", "doubtful", "doubtful_run", "to_url", "to_url_run", "string_literals", "run_string_literals", "name_initials", "name_initials_run", "ownership", "ownership_run", "copy", "copy_run", "borrow_me_the_reference", "borrow_me_the_reference_run", "tic_tac_toe"]
+    "tuples_refs", "doubtful", "to_url", "string_literals", "middle_day", "does_it_fit"]
 [package]
 name = "piscine-rust"
 version = "0.1.0"

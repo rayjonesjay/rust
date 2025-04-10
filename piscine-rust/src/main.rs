@@ -1,10 +1,8 @@
+use tuples_refs::*;
 
 fn main() {
-    println!("hello this is the best way to dance");
-    let v = "hello world";
-    let r = v.as_bytes().windows(v.len());
-    for (index,char) in r.enumerate() {
-        println!("{} {:?}",index,char);
-    }
-    // println!("{:?}",r);
+  let student = Student(20, "Pedro".to_string(), "Domingos".to_string());
+  println!("Student's first name: {}", first_name(&student));
+  println!("Student's last name: {}", last_name(&student));
+  println!("Student's id: {}", id(&student));
 }
